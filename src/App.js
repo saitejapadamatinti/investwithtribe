@@ -2,7 +2,6 @@ import "./App.css";
 
 function App() {
   return (
-      <div className="main-div">
     <div className="App">
       {/* 1st section */}
       <div className="first-section-div">
@@ -28,9 +27,8 @@ function App() {
       </div>
       {/* 2nd section */}
       <div className="second-section-div">
-        <h1>2nd section</h1>
+        <h3>2nd section</h3>
         <h2>User Data</h2>
-      </div>
       </div>
     </div>
   );
